@@ -9,12 +9,12 @@
   },
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "https://github.com/forforeach/Angular2-Unit-Tests"
   },
   "author": "Dima Kuzmich",
   "license": "MIT",
   "bugs": {
-    "url": ""
+    "url": "https://github.com/forforeach/Angular2-Unit-Tests"
   },
   "devDependencies": {
     "del": "^1.2.0",

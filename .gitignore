@@ -25,3 +25,17 @@ build/Release
 # Dependency directory
 # https://www.npmjs.org/doc/misc/npm-faq.html#should-i-check-my-node_modules-folder-into-git
 node_modules
+
+# VS Code settings files
+.settings
+
+# Build files
+scripts/build
+scripts/maps
+
+# Tests compiled files
+scripts/test/*.js
+scripts/test/maps
+
+# Typings files
+typings
